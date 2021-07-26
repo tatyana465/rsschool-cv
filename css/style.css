@@ -1,15 +1,20 @@
 #main-menu{
+
     height:220px;
     display:flex;
     flex-direction:column;
     flex-wrap:wrap;
 }
+
 body {
+
     text-align: center;
     background-color: aliceblue;
 
 }
+
 #wrapper {
+
     width: 960px;
     margin: 15px auto;
     text-align: left;
@@ -23,8 +28,6 @@ h1 {
     color: navy;
 }
 
-
-
 h2 {
     
     font: bold 20px verdana, sans-serif;
@@ -37,7 +40,9 @@ h3 {
     color: navy;
 
 }
- #box1{   
+
+ #box1{ 
+
      height:90px;
      display:flex;
      flex-direction:column;
@@ -46,23 +51,26 @@ h3 {
 
  
  hr {
+
      color:rebeccapurple;
      line-height: 5px;
  }
 
- 
+
 .text {
+
     margin-left: 180 px;
 
 }
 #photo{
+
     width:160px;
     height:200px;
-
 
 }
 
 #data {
+    
     font: bold 14px verdana, sans-serif;
     color: navy;
     
